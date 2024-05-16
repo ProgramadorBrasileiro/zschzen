@@ -1,5 +1,5 @@
 
-## Hey, leander here!
+## Hey, Gomes here!
 
 <img align="right" alt="Leandro Peres's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=zschzen&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true">
 
